@@ -1,11 +1,11 @@
-import AccountMenu from "../components/AccountMenu/AccountMenu"
+import AccountMenu from '../components/AccountMenu/AccountMenu';
 const ErrorPage = () => {
-    return (
-        <>
-        <div>error</div>
-        <AccountMenu />
-        </>
-    )
-}
+  return (
+    <>
+      <div>err</div>
+      <AccountMenu />
+    </>
+  );
+};
 
-export default ErrorPage
+export default ErrorPage;
